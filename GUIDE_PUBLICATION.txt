@@ -1,0 +1,8 @@
+1. Decompressez le ZIP.
+2. Copiez tous les fichiers et le dossier images dans D:\YouTube\L_Antre_de_la_Manticore.
+3. Ouvrez un terminal PowerShell dans ce dossier.
+4. Executez : git add .
+5. Executez : git commit -m "Optimisation Google JDR Ancenis"
+6. Executez : git push
+7. Dans Google Search Console > Sitemaps, envoyez sitemap.xml.
+8. La demande d indexation de la page d accueil a deja ete faite : ne la repetez pas.

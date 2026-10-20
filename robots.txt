@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manub44.github.io/L-Antre-de-la-manticore/sitemap.xml
