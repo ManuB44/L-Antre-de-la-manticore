@@ -6,3 +6,5 @@ index.html doit être à la racine, à côté de style.css et script.js.
 Les jeux de rôle et la découverte de l’association : dimanche 14h-19h, Salles des Abattoirs.
 Jeux de société et Kill Team : 20h-minuit, Salle de la Corderie, 63 rue Alexis Carrel, Ancenis.
 ATTENTION : le jour de la semaine pour la Corderie n’a pas été précisé et est indiqué comme « à confirmer ».
+
+Salle de la Corderie : premier samedi de chaque mois, de 20 h à 00 h 00.
