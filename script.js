@@ -1,0 +1,1 @@
+function showImage(src){document.getElementById('viewer-img').src=src;document.getElementById('viewer').classList.add('open')}document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('viewer').classList.remove('open')})
